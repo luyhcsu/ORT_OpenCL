@@ -1,0 +1,19 @@
+[submodule "cmake/external/onnx"]
+	path = cmake/external/onnx
+	url = https://github.com/onnx/onnx.git
+[submodule "cmake/external/libprotobuf-mutator"]
+	path = cmake/external/libprotobuf-mutator
+	url = https://github.com/google/libprotobuf-mutator.git
+[submodule "cmake/external/emsdk"]
+	path = cmake/external/emsdk
+	url = https://github.com/emscripten-core/emsdk.git
+	branch = 3.1.59
+[submodule "cmake/external/tracy"]
+	path = cmake/external/tracy
+	url = https://github.com/wolfpld/tracy.git
+[submodule "cmake/external/cl3w/OpenCL-Headers"]
+	path = cmake/external/cl3w/OpenCL-Headers
+	url = https://github.com/KhronosGroup/OpenCL-Headers.git
+# [submodule "cmake/external/mp11"]
+# 	path = cmake/external/mp11
+# 	url = https://github.com/boostorg/mp11.git
